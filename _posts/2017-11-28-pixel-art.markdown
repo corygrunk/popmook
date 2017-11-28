@@ -2,7 +2,6 @@
 layout: post
 title:  "Pixel Art"
 date:   2017-11-28 13:55:41 -0700
-categories: design
 ---
 
 So I have very little experience with game development, and even less experience with 3D modeling. I've gone through a handful of tutorials ([Brackeys](http://brackeys.com/) - thank you!!!!). I started to look into Blender tutorials but quickly became overwhelmed and dishearten. Then, a few days ago I decided to look at [Brackey's 2D Platformer](https://www.youtube.com/watch?v=UbPiCgCkHTE&list=PLPV2KyIb3jR42oVBU6K2DIL6Y22Ry9J1c) course. I was once again energized. I may know nothing about 3D, but I've used Photoshop for years, and am confident I can make my own mediocre graphics!

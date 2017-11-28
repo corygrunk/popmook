@@ -2,7 +2,6 @@
 layout: post
 title:  "Sheep Blaster"
 date:   2017-11-26 12:00:00 -0700
-categories: demo
 ---
 Last summer I spent some evenings going through a bunch of Unity tutorials. Unity impressed me with how quickly you can get up and running and there seems to be a pretty large community to answer questions.
 

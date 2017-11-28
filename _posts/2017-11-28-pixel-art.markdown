@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Pixel Art"
+date:   2017-11-28 13:55:41 -0700
+categories: design
+---
+
+So I have very little experience with game development, and even less experience with 3D modeling. I've gone through a handful of tutorials ([Brackeys](http://brackeys.com/) - thank you!!!!). I started to look into Blender tutorials but quickly became overwhelmed and dishearten. Then, a few days ago I decided to look at [Brackey's 2D Platformer](https://www.youtube.com/watch?v=UbPiCgCkHTE&list=PLPV2KyIb3jR42oVBU6K2DIL6Y22Ry9J1c) course. I was once again energized. I may know nothing about 3D, but I've used Photoshop for years, and am confident I can make my own mediocre graphics!
+
+BTW, I'm embarrassed to admit this, but I never put together that a "platformer" was a game where you run across platforms. The more you know.
+
+I started by drawing a pixel version of my old, crappy car. My kids have named her "Field".
+
+![My old crappy car]({{ site.url }}/assets/images/IMG_0381.jpg)
+
+I dropped it in my 2D Platformer tutorial and quickly realized that cars behave weird when they're replacing characters. Oh well, it was a fun experiment.
+
+So instead of a car, I drew up a pixel version of my kids. If you don't have kids, you may think this is super lame, but I don't care. You have free time and expendable income. I have two rad, funny, kids who may be the only ones that play this game.
+
+![Pixel kids]({{ site.url }}/assets/images/IMG_0384.jpg)
+
+Until next time.

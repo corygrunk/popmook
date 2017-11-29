@@ -120,11 +120,11 @@ pre {
     padding-left: 0; }
 
 body {
-  padding: 70px 100px; }
+  padding: 30px; }
 
-@media (max-width: 500px) {
+@media (min-width: 500px) {
   body {
-    padding: 30px; } }
+    padding: 70px 100px; } }
 .site-header {
   padding-bottom: 20px; }
   .site-header p {

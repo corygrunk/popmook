@@ -7,7 +7,7 @@ build:
          code: bundle exec jekyll doctor
      - script:
          name: Build Jekyll site
-         code: bundle exec jekyll build --trace
+         code: bundle exec JEKYLL_ENV=production jekyll build --trace
 deploy:
  steps:
      - s3sync:

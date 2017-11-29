@@ -2,6 +2,12 @@ body {
   padding: 70px 100px;
 }
 
+@media (max-width: 500px) {
+  body {
+    padding: 30px;
+  }
+}
+
 .site-header {
   padding-bottom: 20px;
   p {

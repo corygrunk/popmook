@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Pop Mook
-email: corygrunk+popmook@example.com
+email: corygrunk+popmook@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Pop Mook is my devblog as I try to build a video game.
 baseurl: "" # the subpath of your site, e.g. /blog

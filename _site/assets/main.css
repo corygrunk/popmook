@@ -125,28 +125,25 @@ body {
 @media (min-width: 500px) {
   body {
     padding: 70px 100px; } }
-.site-header {
-  padding-bottom: 20px; }
-  .site-header p {
-    color: #9f9f9f; }
-
 .wrapper {
   max-width: 640px; }
 
-ul.post-list {
+.home p.home-description {
+  color: #9f9f9f; }
+.home ul.post-list {
   margin: 0; }
-  ul.post-list li {
+  .home ul.post-list li {
     list-style: none; }
-    ul.post-list li a {
+    .home ul.post-list li a {
       list-style: none; }
-      ul.post-list li a:hover {
+      .home ul.post-list li a:hover {
         text-decoration: none; }
-        ul.post-list li a:hover h4 {
+        .home ul.post-list li a:hover h4 {
           color: #D370E3; }
-      ul.post-list li a span {
+      .home ul.post-list li a span {
         color: #D2D2D2;
         display: inline-block; }
-      ul.post-list li a h4 {
+      .home ul.post-list li a h4 {
         display: inline-block; }
 
 .page-content article header h2 {

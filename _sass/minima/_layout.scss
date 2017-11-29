@@ -8,38 +8,39 @@ body {
   }
 }
 
-.site-header {
-  padding-bottom: 20px;
-  p {
-    color: $text-color-darker;
-  }
-}
-
 .wrapper {
   max-width: 640px;
 }
 
 // HOMEPAGE
-ul.post-list {
-  margin: 0;
-  li {
-    list-style: none;
-    a {
-      &:hover {
-        text-decoration: none;
-        h4 { color: $brand-color; }
-      }
+
+.home {
+  p.home-description  {
+    color: $text-color-darker;
+  }
+
+  ul.post-list {
+    margin: 0;
+    li {
       list-style: none;
-      span {
-        color: $text-color;
-        display: inline-block;
-      }
-      h4 {
-        display: inline-block;
+      a {
+        &:hover {
+          text-decoration: none;
+          h4 { color: $brand-color; }
+        }
+        list-style: none;
+        span {
+          color: $text-color;
+          display: inline-block;
+        }
+        h4 {
+          display: inline-block;
+        }
       }
     }
-  }
+  }  
 }
+
 
 // POSTS PAGE
 .page-content {

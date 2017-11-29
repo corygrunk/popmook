@@ -19,6 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Pop Mook is my devblog as I try to build a video game.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://popmook.com" # the base hostname & protocol for your site, e.g. http://example.com
+google_analytics: UA-273396-47
 twitter_username: corygrunk
 github_username:  corygrunk
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile']
